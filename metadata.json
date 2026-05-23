@@ -1,0 +1,7 @@
+{
+  "name": "Lumora",
+  "description": "Disaster management and emergency response application with resident and command center workflows",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
